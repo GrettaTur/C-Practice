@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-	Matrix m{ 5,5 };
-	m.print();
+	Matrix a{ 5,5 };
+	a.print();
 }
